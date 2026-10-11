@@ -2948,7 +2948,7 @@ export const SONGS = [
     "id": "s-70f2ba560d0be0c9",
     "title": "Doki Doki♡today",
     "date": "2015-10-05",
-    "release": "いぬねこ。青春真っ盛り （イベント会場限定商品）SOLD OUT！",
+    "release": "いぬねこ。青春真っ盛り （イベント会場限定商品）",
     "artworkSource": "https://img.imageimg.net/artist/tws/img/product_1017947.jpg",
     "artwork": "./jackets/eb3f4583b83a225f.webp",
     "sources": [
@@ -2968,7 +2968,7 @@ export const SONGS = [
         "date": "2016-05-04"
       },
       {
-        "title": "いぬねこ。青春真っ盛り （イベント会場限定商品）SOLD OUT！",
+        "title": "いぬねこ。青春真っ盛り （イベント会場限定商品）",
         "url": "https://wa-suta.world/discography/detail.php?id=1011013",
         "date": "2015-10-05"
       },
@@ -2998,7 +2998,7 @@ export const SONGS = [
     "id": "s-f3b57abb4884d8ca",
     "title": "Zili Zili Love",
     "date": "2015-10-05",
-    "release": "いぬねこ。青春真っ盛り （イベント会場限定商品）SOLD OUT！",
+    "release": "いぬねこ。青春真っ盛り （イベント会場限定商品）",
     "artworkSource": "https://img.imageimg.net/artist/tws/img/product_1017947.jpg",
     "artwork": "./jackets/eb3f4583b83a225f.webp",
     "sources": [
@@ -3013,7 +3013,7 @@ export const SONGS = [
         "date": "2016-05-04"
       },
       {
-        "title": "いぬねこ。青春真っ盛り （イベント会場限定商品）SOLD OUT！",
+        "title": "いぬねこ。青春真っ盛り （イベント会場限定商品）",
         "url": "https://wa-suta.world/discography/detail.php?id=1011013",
         "date": "2015-10-05"
       },
@@ -3044,7 +3044,7 @@ export const SONGS = [
     "id": "s-09d620dfeff46606",
     "title": "いぬねこ。青春真っ盛り",
     "date": "2015-10-05",
-    "release": "いぬねこ。青春真っ盛り （イベント会場限定商品）SOLD OUT！",
+    "release": "いぬねこ。青春真っ盛り （イベント会場限定商品）",
     "artworkSource": "https://img.imageimg.net/artist/tws/img/product_1017947.jpg",
     "artwork": "./jackets/eb3f4583b83a225f.webp",
     "sources": [
@@ -3074,7 +3074,7 @@ export const SONGS = [
         "date": "2016-05-04"
       },
       {
-        "title": "いぬねこ。青春真っ盛り （イベント会場限定商品）SOLD OUT！",
+        "title": "いぬねこ。青春真っ盛り （イベント会場限定商品）",
         "url": "https://wa-suta.world/discography/detail.php?id=1011013",
         "date": "2015-10-05"
       },
@@ -3125,7 +3125,7 @@ export const SONGS = [
     "id": "s-2dbbbcac45a26e44",
     "title": "ちいさな ちいさな",
     "date": "2015-10-05",
-    "release": "いぬねこ。青春真っ盛り （イベント会場限定商品）SOLD OUT！",
+    "release": "いぬねこ。青春真っ盛り （イベント会場限定商品）",
     "artworkSource": "https://img.imageimg.net/artist/tws/img/product_1017947.jpg",
     "artwork": "./jackets/eb3f4583b83a225f.webp",
     "sources": [
@@ -3145,7 +3145,7 @@ export const SONGS = [
         "date": "2016-05-04"
       },
       {
-        "title": "いぬねこ。青春真っ盛り （イベント会場限定商品）SOLD OUT！",
+        "title": "いぬねこ。青春真っ盛り （イベント会場限定商品）",
         "url": "https://wa-suta.world/discography/detail.php?id=1011013",
         "date": "2015-10-05"
       },
@@ -3191,7 +3191,7 @@ export const SONGS = [
     "id": "s-2df85106ae155c37",
     "title": "らんらん・時代",
     "date": "2015-10-05",
-    "release": "いぬねこ。青春真っ盛り （イベント会場限定商品）SOLD OUT！",
+    "release": "いぬねこ。青春真っ盛り （イベント会場限定商品）",
     "artworkSource": "https://img.imageimg.net/artist/tws/img/product_1017947.jpg",
     "artwork": "./jackets/eb3f4583b83a225f.webp",
     "sources": [
@@ -3206,7 +3206,7 @@ export const SONGS = [
         "date": "2016-05-04"
       },
       {
-        "title": "いぬねこ。青春真っ盛り （イベント会場限定商品）SOLD OUT！",
+        "title": "いぬねこ。青春真っ盛り （イベント会場限定商品）",
         "url": "https://wa-suta.world/discography/detail.php?id=1011013",
         "date": "2015-10-05"
       },
